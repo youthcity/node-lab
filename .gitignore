@@ -159,4 +159,7 @@ fabric.properties
 # Sonarlint plugin
 .idea/sonarlint
 
+# vscode
+.vscode/
+
 # End of https://www.gitignore.io/api/node,macos,webstorm,visualstudiocode
