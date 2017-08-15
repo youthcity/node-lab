@@ -10,6 +10,7 @@
 - 邮箱验证和发送邮件
 - trace
 - 单点登陆
+- swagger
 
 ## TOBE
 
