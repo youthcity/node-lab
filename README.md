@@ -11,6 +11,7 @@
 - trace
 - 单点登陆
 - swagger
+- Pomelo
 
 ## TOBE
 
